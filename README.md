@@ -43,7 +43,7 @@ Required Python Libraries (can be installed using requirements.txt)
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/etl-pipeline.git
+git clone https://github.com/AakashRavindran/DE_Enhanced-ETL-Workflow-with-Python-AWS-S3-RDS-and-Glue.git
 cd etl-pipeline
 
 
